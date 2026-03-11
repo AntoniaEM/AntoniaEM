@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ### Vias de contacto
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
